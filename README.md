@@ -79,7 +79,7 @@ now try to ping `twitter.com` and cheers :).
 
 
 Publications
--------
+--------
 
 If you think this helpful, please cite:
 
